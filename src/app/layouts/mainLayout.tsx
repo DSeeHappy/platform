@@ -115,7 +115,7 @@ export default function MainLayout({children,}: any) {
                                                                         )}
                                                                         aria-hidden="true"
                                                                     />
-                                                                    {item.name}
+                                                                   {item.name}
                                                                 </Link>
                                                             </li>
                                                         ))}
